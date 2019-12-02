@@ -1,0 +1,167 @@
+[
+  {
+    "sport": {
+      "key": "soccer",
+      "name": "Soccer"
+    },
+    "league": {
+      "key": "laliga",
+      "name": "LaLiga"
+    },
+    "event": {
+      "home": "Villarreal",
+      "away": "Atl. Madrid",
+      "start_time": "2019-12-06T20:00:00+00:00"
+    }
+  },
+  {
+    "sport": {
+      "key": "soccer",
+      "name": "Soccer"
+    },
+    "league": {
+      "key": "laliga",
+      "name": "LaLiga"
+    },
+    "event": {
+      "home": "Real Madrid",
+      "away": "Espanyol",
+      "start_time": "2019-12-07T12:00:00+00:00"
+    }
+  },
+  {
+    "sport": {
+      "key": "soccer",
+      "name": "Soccer"
+    },
+    "league": {
+      "key": "laliga",
+      "name": "LaLiga"
+    },
+    "event": {
+      "home": "Granada CF",
+      "away": "Alaves",
+      "start_time": "2019-12-07T15:00:00+00:00"
+    }
+  },
+  {
+    "sport": {
+      "key": "soccer",
+      "name": "Soccer"
+    },
+    "league": {
+      "key": "laliga",
+      "name": "LaLiga"
+    },
+    "event": {
+      "home": "Levante",
+      "away": "Valencia",
+      "start_time": "2019-12-07T17:30:00+00:00"
+    }
+  },
+  {
+    "sport": {
+      "key": "soccer",
+      "name": "Soccer"
+    },
+    "league": {
+      "key": "laliga",
+      "name": "LaLiga"
+    },
+    "event": {
+      "home": "Barcelona",
+      "away": "Mallorca",
+      "start_time": "2019-12-07T20:00:00+00:00"
+    }
+  },
+  {
+    "sport": {
+      "key": "soccer",
+      "name": "Soccer"
+    },
+    "league": {
+      "key": "laliga",
+      "name": "LaLiga"
+    },
+    "event": {
+      "home": "Eibar",
+      "away": "Getafe",
+      "start_time": "2019-12-08T11:00:00+00:00"
+    }
+  },
+  {
+    "sport": {
+      "key": "soccer",
+      "name": "Soccer"
+    },
+    "league": {
+      "key": "laliga",
+      "name": "LaLiga"
+    },
+    "event": {
+      "home": "Betis",
+      "away": "Ath Bilbao",
+      "start_time": "2019-12-08T13:00:00+00:00"
+    }
+  },
+  {
+    "sport": {
+      "key": "soccer",
+      "name": "Soccer"
+    },
+    "league": {
+      "key": "laliga",
+      "name": "LaLiga"
+    },
+    "event": {
+      "home": "Valladolid",
+      "away": "Real Sociedad",
+      "start_time": "2019-12-08T15:00:00+00:00"
+    }
+  },
+  {
+    "sport": {
+      "key": "soccer",
+      "name": "Soccer"
+    },
+    "league": {
+      "key": "laliga",
+      "name": "LaLiga"
+    },
+    "event": {
+      "home": "Leganes",
+      "away": "Celta Vigo",
+      "start_time": "2019-12-08T17:30:00+00:00"
+    }
+  },
+  {
+    "sport": {
+      "key": "soccer",
+      "name": "Soccer"
+    },
+    "league": {
+      "key": "laliga",
+      "name": "LaLiga"
+    },
+    "event": {
+      "home": "Osasuna",
+      "away": "Sevilla",
+      "start_time": "2019-12-08T20:00:00+00:00"
+    }
+  },
+  {
+    "sport": {
+      "key": "soccer",
+      "name": "Soccer"
+    },
+    "league": {
+      "key": "laliga",
+      "name": "LaLiga"
+    },
+    "event": {
+      "home": "Barcelona",
+      "away": "Real Madrid",
+      "start_time": "2019-12-18T19:00:00+00:00"
+    }
+  }
+]
